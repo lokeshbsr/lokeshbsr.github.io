@@ -1,8 +1,8 @@
 # Angular build output
-/dist
+dist
 # Angular cache
-/.angular/cache
+.angular/cache
 # Node modules
-/node_modules
+node_modules
 # Package lock (optional, depending on your preference)
-/package-lock.json
+package-lock.json
